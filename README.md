@@ -1,2 +1,2 @@
 # Latex
-TEXmake
+TEXmaker
