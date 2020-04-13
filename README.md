@@ -1,2 +1,2 @@
 # Latex
-TEXmaker
+**CV** with TEXmaker
